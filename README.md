@@ -76,3 +76,4 @@ The packaging is not hard, thanks to Kivy's Buildozer which automates many thing
     * zero -  ZeroNet Source Code (if content is missing run `git submodule init --recursive`)
       - zeronet.py - ZeroNet Launcher
   * buildozer.spec - Buildozer config file with package name, title, version, android.permissions, services, etc.
+
